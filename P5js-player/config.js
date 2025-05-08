@@ -1,0 +1,1 @@
+const config = { width: 1536, height: 864 };
